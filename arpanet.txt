@@ -1,0 +1,2 @@
+Winsock2.h en windows
+arpa/inet.h
